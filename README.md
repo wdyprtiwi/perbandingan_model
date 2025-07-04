@@ -1,1 +1,1 @@
-# perbandingan_model
+# Perbandingan Algoritma
